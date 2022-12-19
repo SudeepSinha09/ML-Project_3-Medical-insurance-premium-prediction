@@ -1,7 +1,7 @@
 # ML-Project_3-Medical-insurance-premium-prediction
 ### Data Details 
 
-  Kaggle - https://www.kaggle.com/datasets/mirichoi0218/insurance?select=insurance.csv
+  Kaggle - https://www.kaggle.com/datasets/mirichoi0218/insurance?select=insurance.csv  
   Colab Notebook - https://colab.research.google.com/drive/1w0fnpjcNyc2Oee151ugULerTwWJcYVv4?usp=sharing
   
 #### Please use the Ipynb file in the repository for a detailed explanation of this project. This is because the project has been completed and the steps have been written in the notebook referenced in the repository.
