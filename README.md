@@ -48,6 +48,6 @@ so now we are checking for the Cross Validation test
 
 Result - Compairinng r squre values for all the 3 models we can conclude that best model is XGBoost
 
-##### The model selected - Logistic regression
+##### The model selected - XGBoost
 
 ###### [imp] In genral we do randamosesearchCV or GridsearchCV to find the best fitted model but here as we hav ecompaired the models using r squre test hance we are not goin to perform CVs here
